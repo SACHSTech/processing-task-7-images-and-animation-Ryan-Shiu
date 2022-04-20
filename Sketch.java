@@ -1,6 +1,11 @@
 import processing.core.PApplet;
 import processing.core.PImage;
 
+/**
+* A program Sketch.java that animates and draws 2 among us characters and one white circle
+* @author: R.Shiu
+*
+*/
 public class Sketch extends PApplet {
   // Stating and giving values to variables
 	PImage imgbackground;
